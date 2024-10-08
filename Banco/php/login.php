@@ -3,15 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login e Cadastro</title>
-    <link rel="stylesheet" href="css/estilo.css"> <!-- Conectando o CSS -->
+    <title>Login</title>
 </head>
 <body>
-    <h1>Bem-vindo</h1>
-    <p>Por favor, faça login ou cadastre-se.</p>
-
     <h2>Login</h2>
-    <form action="php/verificar_login.php" method="post">
+    <form action="verificar_login.php" method="post">
         <label for="email">Email:</label>
         <input type="email" name="email" required><br><br>
 
@@ -27,6 +23,6 @@
         <input type="submit" value="Entrar">
     </form>
 
-    <p>Não tem uma conta? <a href="cadastro.html">Cadastre-se aqui</a>.</p>
+    <p>Não tem uma conta? <a href="cadastro.php">Cadastre-se aqui</a>.</p>
 </body>
 </html>
