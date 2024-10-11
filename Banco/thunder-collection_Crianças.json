@@ -1,0 +1,59 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Crianças",
+    "collectionId": "6993e7c0-526c-44fa-b57b-d82a7cf102f9",
+    "dateExported": "2024-10-11T12:04:38.642Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "01e30c57-e9f5-4fbb-94f0-bee33bdaae05",
+            "colId": "6993e7c0-526c-44fa-b57b-d82a7cf102f9",
+            "containerId": "",
+            "name": "post",
+            "url": "",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-10-11T11:57:36.650Z",
+            "modified": "2024-10-11T11:57:36.650Z",
+            "headers": []
+        },
+        {
+            "_id": "bd75a412-06c2-4dd8-ba38-be473234b901",
+            "colId": "6993e7c0-526c-44fa-b57b-d82a7cf102f9",
+            "containerId": "",
+            "name": "put",
+            "url": "",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-10-11T11:58:10.883Z",
+            "modified": "2024-10-11T11:58:10.884Z",
+            "headers": []
+        },
+        {
+            "_id": "90cc5b55-27e8-4cb9-930c-cb7fa392fe4a",
+            "colId": "6993e7c0-526c-44fa-b57b-d82a7cf102f9",
+            "containerId": "",
+            "name": "get",
+            "url": "",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-10-11T11:58:18.695Z",
+            "modified": "2024-10-11T11:58:18.695Z",
+            "headers": []
+        },
+        {
+            "_id": "4678a723-6e07-41b7-9f6f-2ee70363b2ad",
+            "colId": "6993e7c0-526c-44fa-b57b-d82a7cf102f9",
+            "containerId": "",
+            "name": "delete",
+            "url": "",
+            "method": "GET",
+            "sortNum": 40000,
+            "created": "2024-10-11T11:58:26.370Z",
+            "modified": "2024-10-11T11:58:26.370Z",
+            "headers": []
+        }
+    ],
+    "ref": "bHVfV_SF4JnT_mzbd_ZzoEESO_G4PTMEdiT2y7Axm9iVysNTd3yGPkXrCobBTdENSOz3BHv9su7i2ikMbZt_6A"
+}
